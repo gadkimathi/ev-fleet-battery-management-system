@@ -19,7 +19,7 @@ To get started with the EV Fleet Dashboard, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/ev-fleet-dashboard.git
+   git clone https://github.com/gadkimathi/ev-fleet-battery-management-system.git
 Change to the project directory:
 
 bash
@@ -34,17 +34,17 @@ To run the Streamlit application, use the following command:
 bash
 streamlit run app.py
 📜 License
-This project is licensed under the MIT License. See the LICENSE file for more details.
+This project is licensed under the MIT License.
 
-#🤝 Contributing
+🤝 Contributing
 Contributions are welcome! Please read the CONTRIBUTING guidelines before submitting a pull request.
 
-🌟 #Acknowledgments
+🌟 Acknowledgments
 Special thanks to the developers of Streamlit and Pydeck for their amazing libraries.
 
 Thanks to the community for their support and contributions.
 
 📧 Contact
-For any inquiries or issues, please contact yourname@domain.com.
+For any inquiries or issues, please contact murithigad@gmail.com.
 
 
