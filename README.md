@@ -1,6 +1,6 @@
-# 🚗⚡ EV Fleet Dashboard ⚡🚗
+# 🚗⚡ Ev fleet battery management system ⚡🚗
 
-Welcome to the **EV Fleet Dashboard** repository! This Streamlit application simulates and visualizes real-time data for an electric vehicle (EV) fleet, showcasing crucial metrics and integrating an interactive map.
+Welcome to the **Ev-fleet-battery-management-system** repository! This Streamlit application simulates and visualizes real-time data for an electric vehicle (EV) fleet, showcasing crucial metrics and integrating an interactive map.
 
 ## 🎯 Features
 
