@@ -23,7 +23,7 @@ To get started with the EV Fleet Dashboard, follow these steps:
 Change to the project directory:
 
 bash
-cd ev-fleet-dashboard
+cd ev-fleet-battery-management-system
 Install the required dependencies:
 
 bash
