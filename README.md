@@ -33,18 +33,18 @@ To run the Streamlit application, use the following command:
 
 bash
 streamlit run app.py
-📜 License
-This project is licensed under the MIT License.
+## 📜 License
+*This project is licensed under the MIT License.*
 
-🤝 Contributing
+## 🤝 Contributions
 Contributions are welcome! Please read the CONTRIBUTING guidelines before submitting a pull request.
 
-🌟 Acknowledgments
+## 🌟 Acknowledgments
 Special thanks to the developers of Streamlit and Pydeck for their amazing libraries.
 
 Thanks to the community for their support and contributions.
 
-📧 Contact
+## 📧 Contact
 For any inquiries or issues, please contact murithigad@gmail.com.
 
 
