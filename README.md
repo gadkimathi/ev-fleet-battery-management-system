@@ -1,8 +1,8 @@
-# 🚗⚡ Ev fleet battery management system ⚡🚗
+#  Ev fleet battery management system 
 
 Welcome to the **Ev-fleet-battery-management-system** repository! This Streamlit application simulates and visualizes real-time data for an electric vehicle (EV) fleet, showcasing crucial metrics and integrating an interactive map.
 
-## 🎯 Features
+##  Features
 
 - **State-of-Charge (SOC):** Monitor the battery's state-of-charge in real time.
 - **Voltage:** Keep track of the voltage levels across the EV fleet.
@@ -13,7 +13,7 @@ Welcome to the **Ev-fleet-battery-management-system** repository! This Streamlit
 - **Predicted Range:** Calculate the predicted range using a machine learning model.
 - **Interactive Map:** View EV charging stations in Kenya with Pydeck integration.
 
-## 🚀 Installation
+##  Installation
 
 To get started with the EV Fleet Dashboard, follow these steps:
 
@@ -28,21 +28,17 @@ Install the required dependencies:
 
 bash
 pip install -r requirements.txt
-🛠️ Usage
+ Usage
 To run the Streamlit application, use the following command:
 
 bash
 streamlit run app.py
-## 📜 License
+##  License
 *This project is licensed under the MIT License.*
 
-## 🤝 Contributions
+##  Contributions
 Contributions are welcome! Please read the CONTRIBUTING guidelines before submitting a pull request.
 
-## 🌟 Acknowledgments
-Special thanks to the developers of Streamlit and Pydeck for their amazing libraries.
-
-Thanks to the community for their support and contributions.
 
 ## 📧 Contact
 For any inquiries or issues, please contact murithigad@gmail.com.
